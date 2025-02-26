@@ -1,0 +1,42 @@
+.conteiner_information{
+    
+    margin: 1rem;
+    display: flex;
+    align-content: flex-end;
+    width:100%;
+}
+.conteiner_itens{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+}
+.js_progress{
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}
+.machine_out{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    margin: 10px;
+    align-items: center;
+
+}
+.rectangle_one{
+    display: flex;
+    border: solid 3px #483C73 ;
+    width: 100px;
+    height: 175px;
+    margin: 10px;
+    margin-top: 25px;
+    background-color: white;
+    
+    
+}
+.Information_play{
+    display: flex;
+    margin: 15px;
+    padding: 5px;
+}

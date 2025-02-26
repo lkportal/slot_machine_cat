@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Sigmar", serif;
+}
+progress{
+    width: 15rem;
+    height: 25px;
+    
+}
+
+html{
+    background-color: #F2BDBD;
+}

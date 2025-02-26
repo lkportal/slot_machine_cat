@@ -1,0 +1,24 @@
+.conteiner_slot{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.conteiner_machine{
+    border: solid 5px #BF6094;
+    height: 25rem;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    background-image: url("../../imgs/background.jfif");
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.conteiner_machine::before{
+    content: "";
+    position: absolute;
+    opacity: 50%;
+    background-color: (0,0,0,0.5);
+}

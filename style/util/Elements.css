@@ -1,0 +1,61 @@
+.title_slot{
+    font-size: 50px;
+    color: #BF6094;
+}
+.p_level{
+    font-size: 25px;
+    color: #BF6094;
+    margin-right: 5px;
+}
+.level{
+    font-size: 30px;
+    margin-right: 10px; 
+    color: #483C73;   
+}
+.p_xp{
+    margin-right: 4px;
+    font-size: 20px;
+    color: #BF6094;
+}
+.btn_player:hover{
+    border: solid 3px #D989A6 ;
+    background-color: #BF6094;
+}
+.moeda{
+    margin-left: 10px;
+    margin-right: 5px;
+    color:#BF6094 ;
+}
+.coin{
+    font-size: 40px;
+    margin: 25px;
+    color: #483C73;
+}
+.btn_player{
+    width: 10em;
+    font-size: 20px;
+    border: solid 3px #BF6094;
+    background-color:#D989A6;
+    color: #483C73;
+}
+.btn_coins{
+    margin: 10px;
+    width: 50px;
+    font-size: 20px;
+    border: solid 2px #BF6094;
+    background-color: #483C73;
+}
+.btn_coins:hover{
+    border: #D989A6 solid 2px;
+    opacity: 85%;
+}
+.coin_have{
+    font-size: 2em;
+    color: #811717;
+}
+.img_slot{
+    background-repeat: no-repeat;
+    width: 100px;
+    height:  175px;
+    
+}
